@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tambahan dikit biar background gak putih pas loading */
+body {
+  background: #020617; 
+  color: white;
+}
